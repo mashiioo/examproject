@@ -1,0 +1,14 @@
+loginTests/LoginTestAllInOneFile.class
+postTests/CreateNewPostTest.class
+loginTests/LoginTestWithPageObject.class
+registrationTest/ValidationMessagesWithoutSomeFieldsTest.class
+suites/RegressionSuite.class
+suites/SmokeSuite.class
+postTests/EditPostTest.class
+suites/RegistrationSuite.class
+registrationTest/ValidationMessagesTest.class
+baseBase/BaseTest$1.class
+baseBase/BaseTest.class
+signOutTests/SignOutTest.class
+registrationTest/ValidationMessagesTestWithExcel.class
+dataBase/DataBaseTest.class

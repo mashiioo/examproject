@@ -1,0 +1,13 @@
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/baseBase/BaseTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/dataBase/DataBaseTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/loginTests/LoginTestAllInOneFile.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/loginTests/LoginTestWithPageObject.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/postTests/CreateNewPostTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/postTests/EditPostTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/registrationTest/ValidationMessagesTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/registrationTest/ValidationMessagesTestWithExcel.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/registrationTest/ValidationMessagesWithoutSomeFieldsTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/signOutTests/SignOutTest.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/suites/RegistrationSuite.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/suites/RegressionSuite.java
+/Users/tkhitkhuinha/Desktop/WorkSpace/G10_TAF/G10_Project/daiProj/src/test/java/suites/SmokeSuite.java

@@ -1,0 +1,88 @@
+TC_001 Valid login
+Preconditions:
+1.Open https://www.itbox.ua/
+2. Register new user
+STR:
+1.Open https://www.itbox.ua/
+2.Click on "Вхід" button
+3.Enter valid phone number (+380633599483)
+4.Enter valid password (123456qwerty)
+5.Click on "Вхід" button
+
+Expected result:
+Check that name is displayed in the right top corner
+
+Postcondition:
+Delete user
+
+
+
+TC_002 Add 2 items from one category for comparison
+Preconditions:
+1. Register new user
+2. Log in
+
+STR:
+1. Click on "Всі товари" button
+2. Click on "Ноутбуки" button
+3. Сlick on "Порівняти" button for 2 items
+
+
+Expected result:
+Check that scales icon for 2 items are active, and scales icon in the right corner has digit "2" on it
+
+Postcondition:
+Delete user
+
+
+TC_003 Add item to cart
+Preconditions:
+1. Register new user
+2. Log in
+
+STR:
+1. Click on "Всі товари" button
+2. Click on "Ноутбуки" button
+3. Click on "Купити" button for the first item
+Expected result:
+Modal window with added item is displayed. Cart icon has digit "1" on it
+Postcondition:
+Delete user
+
+
+
+
+TC_004 Add item to wishlist
+Preconditions:
+1. Register new user
+2. Log in
+
+STR:
+1. Click on "Всі товари" button
+2. Click on "Ноутбуки" button
+3. Click on "Відкласти" button for the first item
+
+Expected result:
+Check that "heart" icon is active in the block and hear icon in the right corner has digit "1" on it
+
+
+Postcondition:
+
+
+TC_005 Change first name in personal account
+Preconditions:
+1. Register new user
+2. Log in
+
+STR:
+1. CLick on name in the right corner
+2. Click on "Редагувати дані" button under the name
+3. Click on "Змінити особисті дані" button
+4. Enter text into name field
+5. Click on "Зберегти" button
+
+Expected result:
+Name is updated in the field and name is updated in the right corner
+
+Postcondition:
+Delete user
