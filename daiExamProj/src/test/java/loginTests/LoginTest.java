@@ -16,6 +16,6 @@ public class LoginTest  extends BaseTest {
         pageProvider.getLoginPage().clickOnLoginButtoninModal();
 
         Assert.assertTrue("Login button is displayed", pageProvider.getLoginPage().isButtonLoginVisible());
-        Assert.assertFalse("First name is not displayed", pageProvider.getHomePage().isFirstNameVisible());
+        Assert.assertFalse("First name is displayed", pageProvider.getHomePage().isFirstNameVisible());
     }
 }
