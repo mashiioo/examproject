@@ -4183,3 +4183,82 @@ Session ID: 2553e51192e65e0716be442b277054d0
 2024-22-09 23:16:51  INFO [pages.LoginPage] : +380633599483 was inputted into element Телефон
 2024-22-09 23:16:58  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
 2024-22-09 23:16:58  INFO [loginTests.LoginTest] : Browser was closed
+2024-23-09 22:43:33  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 22:44:28  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 22:44:48  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 22:44:59  INFO [pages.LoginPage] : +380633599483 was inputted into element Телефон
+2024-23-09 22:45:05  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-23-09 22:45:07  ERROR [pages.LoginPage] : Can not work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="dotted-text">...</span> is not clickable at point (1861, 31). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="width: auto; height: auto; display: block;">...</div>
+  (Session info: chrome=128.0.6613.138)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1d655c9fb4ecc065f0bbfe56b58604cc, clickElement {id=f.BCE30F186ED11D7229B4A02F06DD5273.d.20B08FFD7655861F56E0A78628CB391F.e.188}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62217}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:62217/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (1d655c9fb4ecc065f0bbfe56b58604cc)] -> xpath: //span[text()='Вхід']]
+Session ID: 1d655c9fb4ecc065f0bbfe56b58604cc
+2024-23-09 22:45:07  INFO [loginTests.LoginTest] : Browser was closed
+2024-23-09 22:47:22  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 22:48:11  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 22:48:26  ERROR [pages.LoginPage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on MAC (b1024df571eae61205ca5a38ba8ffc35)] -> xpath: //button[@class='btn login-btn btn-block' and text()='Вхiд']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63274}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63274/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: b1024df571eae61205ca5a38ba8ffc35
+2024-23-09 22:48:27  INFO [loginTests.LoginTest] : Browser was closed
+2024-23-09 22:49:24  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 22:50:18  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 22:50:36  ERROR [pages.LoginPage] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: [[ChromeDriver: chrome on MAC (4e9d2eab2952d07caa1e682316c2d018)] -> xpath: //button[@class='btn login-btn btn-block' and text()='Вхiд']] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 128.0.6613.138, chrome: {chromedriverVersion: 128.0.6613.137 (fe621c5aa2d..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:63877}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:63877/devtoo..., se:cdpVersion: 128.0.6613.138, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 4e9d2eab2952d07caa1e682316c2d018
+2024-23-09 22:50:36  INFO [loginTests.LoginTest] : Browser was closed
+2024-23-09 22:52:05  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 22:53:04  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 22:53:25  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 22:53:36  INFO [pages.LoginPage] : +380633599483 was inputted into element Телефон
+2024-23-09 22:53:42  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-23-09 22:53:44  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-23-09 22:53:44  INFO [pages.LoginPage] :  element is not displayed
+2024-23-09 22:53:55  INFO [pages.HomePage] : Element is not displayed
+2024-23-09 22:53:55  INFO [loginTests.LoginTest] : Browser was closed
+2024-23-09 22:55:48  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 22:56:34  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 22:57:01  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 22:57:10  INFO [pages.LoginPage] : 380633599483 was inputted into element Телефон
+2024-23-09 22:57:47  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 22:58:37  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 22:59:03  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 22:59:10  INFO [pages.LoginPage] : 380633599483 was inputted into element Телефон
+2024-23-09 23:01:25  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 23:02:18  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 23:02:38  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 23:02:44  INFO [pages.LoginPage] : 0633599483 was inputted into element Телефон
+2024-23-09 23:04:45  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 23:05:34  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 23:05:58  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 23:06:04  INFO [pages.LoginPage] : 80633599483 was inputted into element Телефон
+2024-23-09 23:10:38  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-23-09 23:11:34  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 23:12:21  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 23:12:48  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 23:12:54  INFO [pages.LoginPage] : +38 was inputted into element Телефон
+2024-23-09 23:12:59  INFO [pages.LoginPage] : 0 was inputted into element Телефон
+2024-23-09 23:13:05  INFO [pages.LoginPage] : 633599483 was inputted into element Телефон
+2024-23-09 23:13:06  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-23-09 23:13:08  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-23-09 23:13:09  INFO [pages.LoginPage] :  element is not displayed
+2024-23-09 23:13:19  INFO [pages.HomePage] : Element is not displayed
+2024-23-09 23:13:19  INFO [loginTests.LoginTest] : Browser was closed
+2024-23-09 23:20:50  INFO [loginTests.LoginTest] : Browser was opened
+2024-23-09 23:21:34  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-23-09 23:21:58  INFO [pages.LoginPage] :  element was clicked
+2024-23-09 23:22:06  INFO [pages.LoginPage] : 80633599483 was inputted into element Телефон
+2024-23-09 23:22:14  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-23-09 23:22:16  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-23-09 23:22:16  INFO [pages.LoginPage] :  element is not displayed
+2024-23-09 23:22:21  INFO [pages.HomePage] : Element is not displayed
+2024-23-09 23:22:21  INFO [loginTests.LoginTest] : Browser was closed

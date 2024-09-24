@@ -16,6 +16,9 @@ public class LoginPage extends ParentPage {
     @FindBy(xpath = "//span[text()='Вхід']")
     private WebElement loginButton;
 
+    @FindBy(xpath = "//button[@class='btn login-btn btn-block' and text()='Вхiд']")
+    private WebElement loginButtonInModal;
+
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -42,5 +45,13 @@ public class LoginPage extends ParentPage {
 
     public void clickOnLoginButton() {
         clickOnElement(loginButton);
+    }
+
+    public boolean isButtonLoginVisible() {
+        return isElementVisible(loginButton);
+    }
+
+    public void clickOnLoginButtoninModal() {
+        clickOnElement(loginButtonInModal);
     }
 }
