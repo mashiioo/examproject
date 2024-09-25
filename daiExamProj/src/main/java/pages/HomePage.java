@@ -8,7 +8,7 @@ public class HomePage extends ParentPage {
 
 
     @FindBy(xpath = "//span[@class='active cabinet-link' and text()='Марія']")
-    private WebElement firstName;
+    public WebElement firstName;
 
     public HomePage(WebDriver webDriver) {
         super(webDriver);

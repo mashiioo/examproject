@@ -4,22 +4,22 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 
-public class PersonalAccountPage extends ParentPage {
+public class DashboardPage extends ParentPage {
 
 
     @FindBy(xpath = "//span[@class='bordered-text' and text()='Редагувати дані']")
     private WebElement editDataButton;
 
-    public PersonalAccountPage(WebDriver webDriver) {
+    public DashboardPage(WebDriver webDriver) {
         super(webDriver);
     }
 
     @Override
     protected String getRelativeUrl() {
-        return "";
+        return "ua/dashboard/";
     }
 
-    public PersonalAccountPage checkIsRedirectToPersonalAccountPage() {
+    public DashboardPage checkIsRedirectToDashboardPage() {
         checkUrl();
         return this;
     }

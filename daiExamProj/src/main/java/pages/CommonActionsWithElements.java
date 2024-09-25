@@ -5,13 +5,12 @@ import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.PageFactory;
-import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 import java.time.Duration;
-import java.util.concurrent.TimeUnit;
 
 public class CommonActionsWithElements {
     protected WebDriver webDriver;
@@ -36,6 +35,20 @@ public class CommonActionsWithElements {
         }
     }
 
+    public void enterTextUsingActions(WebElement webElement, String text) {
+        try {
+            Actions actions = new Actions(webDriver);
+            actions.moveToElement(webElement).click().perform();
+            for (char c : text.toCharArray()) {
+                actions.sendKeys(String.valueOf(c))
+                        .perform();
+            }
+            logger.info("Text " + text + " was entered via keyboard" + getElementName(webElement));
+        } catch (Exception e) {
+            printErrorAndStopTest(e);
+        }
+    }
+
     protected void clickOnElement(WebElement webElement) {
         try {
             webDriverWait10.until(ExpectedConditions.elementToBeClickable(webElement));
@@ -45,14 +58,14 @@ public class CommonActionsWithElements {
         } catch (Exception e) {
             printErrorAndStopTest(e);
         }
-        }
+    }
 
-        private void printErrorAndStopTest(Exception e) {
+    public void printErrorAndStopTest(Exception e) {
         logger.error("Can not work with element " + e);
-            Assert.fail("Can not work with element " + e);
-        }
+        Assert.fail("Can not work with element " + e);
+    }
 
-        protected boolean isElementVisible(WebElement webElement) {
+    protected boolean isElementVisible(WebElement webElement) {
         try {
             boolean state = webElement.isDisplayed();
             if (state) {
@@ -63,9 +76,9 @@ public class CommonActionsWithElements {
             logger.info("Element is not displayed");
             return false;
         }
-        }
+    }
 
-        protected boolean isElemenVisible(WebElement webElement, String elementName) {
+    protected boolean isElemenVisible(WebElement webElement, String elementName) {
         try {
             boolean state = webElement.isDisplayed();
             if (state) {
@@ -78,9 +91,9 @@ public class CommonActionsWithElements {
             logger.info(elementName + " element is not displayed");
             return false;
         }
-        }
+    }
 
-        protected boolean isElementVisible(String locator){
+    protected boolean isElementVisible(String locator) {
         try {
             return isElementVisible(webDriver.findElement(By.xpath(locator)));
         } catch (Exception e) {
@@ -88,15 +101,15 @@ public class CommonActionsWithElements {
             return false;
         }
 
-        }
+    }
 
-        private String getElementName(WebElement webElement) {
+    private String getElementName(WebElement webElement) {
         String elementName = "";
         try {
             return webElement.getAccessibleName();
         } catch (Exception e) {
             return elementName;
         }
-        }
+    }
 
 }

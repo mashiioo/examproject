@@ -16,7 +16,11 @@ public class PageProvider {
         return new HomePage(webDriver);
     }
 
-    public PersonalAccountPage getPersonalAccountPage() {
-        return new PersonalAccountPage(webDriver);
+    public DashboardPage getDashboardPage() {
+        return new DashboardPage(webDriver);
+    }
+
+    public MyDataPage getMyDataPage() {
+        return new MyDataPage(webDriver);
     }
 }

@@ -3,6 +3,7 @@ package pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class LoginPage extends ParentPage {
 
@@ -19,6 +20,7 @@ public class LoginPage extends ParentPage {
     @FindBy(xpath = "//button[@class='btn login-btn btn-block' and text()='Вхiд']")
     private WebElement loginButtonInModal;
 
+
     public LoginPage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -28,19 +30,20 @@ public class LoginPage extends ParentPage {
         return "/";
     }
 
-    public void openLoginPage() {
+    public LoginPage openLoginPage() {
         webDriver.get(baseUrl);
         logger.info("Login page was opened " + baseUrl);
+        return this;
     }
 
-    public void enterPhoneNumber(String phoneNumber) {
-        clearAndEnterTextIntoElement(inputPhoneNumberInLoginForm, phoneNumber);
-
+    public LoginPage enterPhoneNumber(String phoneNumber) {
+        enterTextUsingActions(inputPhoneNumberInLoginForm, phoneNumber);
+     return this;
     }
 
-    public void enterPassword(String password) {
+    public LoginPage enterPassword(String password) {
         clearAndEnterTextIntoElement(inputPasswordInLoginForm, password);
-
+return this;
     }
 
     public void clickOnLoginButton() {
@@ -48,10 +51,12 @@ public class LoginPage extends ParentPage {
     }
 
     public boolean isButtonLoginVisible() {
+        webDriverWait15.until(ExpectedConditions.invisibilityOf(loginButton));
         return isElementVisible(loginButton);
     }
 
     public void clickOnLoginButtoninModal() {
         clickOnElement(loginButtonInModal);
     }
+
 }

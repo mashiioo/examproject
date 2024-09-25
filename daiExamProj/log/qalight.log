@@ -4262,3 +4262,435 @@ Session ID: 4e9d2eab2952d07caa1e682316c2d018
 2024-23-09 23:22:16  INFO [pages.LoginPage] :  element is not displayed
 2024-23-09 23:22:21  INFO [pages.HomePage] : Element is not displayed
 2024-23-09 23:22:21  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 19:13:25  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 19:14:28  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 19:14:58  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 19:16:05  INFO [pages.LoginPage] : 0633599483 was inputted into element Телефон
+2024-24-09 19:30:52  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 19:31:54  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 19:32:21  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 19:32:23  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboard
+2024-24-09 19:32:28  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 19:32:34  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 19:32:36  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 19:32:50  INFO [pages.HomePage] : Element is not displayed
+2024-24-09 19:32:50  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 19:33:56  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 19:34:59  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 19:35:28  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 19:35:33  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboard
+2024-24-09 19:42:28  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 19:43:24  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 19:43:50  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 19:43:55  INFO [pages.LoginPage] : Телефон element was clicked
+2024-24-09 19:43:59  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboard
+2024-24-09 19:44:06  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 19:44:11  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 19:44:12  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 19:44:51  INFO [pages.HomePage] : Element is not displayed
+2024-24-09 19:44:51  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 19:46:30  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 19:47:21  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 19:47:47  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 19:47:50  INFO [pages.LoginPage] : Телефон element was clicked
+2024-24-09 19:47:53  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboard
+2024-24-09 19:48:00  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 19:48:08  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 19:48:09  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 19:49:46  INFO [pages.HomePage] :  element is not displayed
+2024-24-09 19:49:46  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 19:56:34  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 19:59:31  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 19:59:57  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:00:02  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:00:11  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:00:17  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:00:17  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 20:00:30  INFO [pages.HomePage] : Element is not displayed
+2024-24-09 20:00:30  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 20:04:19  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:05:06  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:05:26  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:05:32  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:05:43  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:05:45  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:05:47  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 20:07:23  INFO [pages.HomePage] : Element is not displayed
+2024-24-09 20:07:24  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 20:08:56  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:10:13  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:10:23  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:10:27  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:10:34  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:10:39  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:10:41  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 20:11:02  INFO [pages.HomePage] :  element is not displayed
+2024-24-09 20:11:03  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 20:14:33  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:15:51  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:15:59  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:16:02  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:16:08  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:16:11  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:16:16  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 20:16:16  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 20:24:11  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:24:58  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:25:17  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:25:22  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:25:27  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:25:33  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:26:19  INFO [pages.LoginPage] : Element is not displayed
+2024-24-09 20:30:28  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:31:46  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:31:52  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:31:56  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:32:04  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:32:05  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:32:05  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 20:32:05  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 20:37:49  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:38:24  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:38:53  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:39:07  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:39:10  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:39:12  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:39:44  INFO [pages.LoginPage] :  element is not displayed
+2024-24-09 20:39:44  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 20:40:30  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:42:12  INFO [loginTests.LoginTest] : Browser was opened
+2024-24-09 20:43:02  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 20:43:25  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 20:43:31  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 20:43:44  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 20:43:48  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 20:44:36  INFO [pages.LoginPage] : Element is not displayed
+2024-24-09 20:44:36  INFO [pages.HomePage] :  element is not displayed
+2024-24-09 20:44:36  INFO [loginTests.LoginTest] : Browser was closed
+2024-24-09 21:21:59  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 21:22:45  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 21:23:11  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 21:23:16  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 21:23:22  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 21:23:28  ERROR [pages.LoginPage] : Can not work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <span class="dotted-text">...</span> is not clickable at point (1202, 31). Other element would receive the click: <div class="fancybox-overlay fancybox-overlay-fixed" style="width: auto; height: auto; display: block;">...</div>
+  (Session info: chrome=129.0.6668.59)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8dbc326e3ff9311a5ce7e029f54e9214, clickElement {id=f.F9DF0B2F2850580CDD4443421032514C.d.AF1DBC0ADA8B98C3665FFCF743FFFC63.e.95}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56874}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56874/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (8dbc326e3ff9311a5ce7e029f54e9214)] -> xpath: //span[text()='Вхід']]
+Session ID: 8dbc326e3ff9311a5ce7e029f54e9214
+2024-24-09 21:23:38  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [8dbc326e3ff9311a5ce7e029f54e9214, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56874}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56874/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 8dbc326e3ff9311a5ce7e029f54e9214
+2024-24-09 21:25:43  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 21:26:45  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 21:26:54  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 21:27:00  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 21:27:05  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 21:27:09  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 21:28:02  INFO [pages.HomePage] :  element was clicked
+2024-24-09 21:28:12  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [f4dca04097984d84fa7b6d6e69b60b1c, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57897}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:57897/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: f4dca04097984d84fa7b6d6e69b60b1c
+2024-24-09 21:29:40  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 21:30:35  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 21:30:56  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 21:31:10  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 21:31:14  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 21:31:15  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 21:32:01  INFO [pages.HomePage] :  element was clicked
+2024-24-09 21:32:11  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [411bdf27afd96c9368b237e3d33e6642, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59007}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59007/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 411bdf27afd96c9368b237e3d33e6642
+2024-24-09 21:33:01  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 21:33:58  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 21:34:17  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 21:34:22  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 21:34:33  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 21:34:35  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 21:35:21  INFO [pages.HomePage] :  element was clicked
+2024-24-09 21:35:31  INFO [pages.DashboardPage] :  element was clicked
+2024-24-09 21:35:33  INFO [pages.MyDataPage] : Elvin was inputted into element Ім'я
+2024-24-09 21:35:34  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-24-09 21:35:35  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-24-09 21:35:36  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.ElementClickInterceptedException: element click intercepted: Element <button type="submit" class="btn btn-block btn-save">...</button> is not clickable at point (927, 317). Other element would receive the click: <div id="popup-user-error" class="order-error" hidden="" style="display: block;">...</div>
+  (Session info: chrome=129.0.6668.59)
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a9896a899575dae4497e1cedb4ffaca1, clickElement {id=f.0BF6780B9157297D00DC70A1DFB874C9.d.70D1133D77ECBAA23700AAF0BF8C4D61.e.91269}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:59920}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:59920/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (a9896a899575dae4497e1cedb4ffaca1)] -> xpath: //button[@type='submit' and contains(@class, 'btn-save') and text()='Зберегти']]
+Session ID: a9896a899575dae4497e1cedb4ffaca1
+2024-24-09 21:40:40  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 21:41:35  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 21:42:01  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 21:42:06  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 21:42:22  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 21:42:23  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 21:42:52  ERROR [pages.HomePage] : Can not work with element org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#stale_element_reference
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bc5c6b710ad0a68c4b755085628267c, isElementDisplayed {id=f.38D59A274E5080DCC86832B056DDA54A.d.B76918CEA628EF27547661A4BB886CC1.e.44706}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62000}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:62000/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on MAC (7bc5c6b710ad0a68c4b755085628267c)] -> xpath: //span[@class='active cabinet-link' and text()='Марія']]
+Session ID: 7bc5c6b710ad0a68c4b755085628267c
+2024-24-09 21:43:02  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7bc5c6b710ad0a68c4b755085628267c, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62000}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:62000/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7bc5c6b710ad0a68c4b755085628267c
+2024-24-09 23:35:49  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 23:36:33  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 23:36:58  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 23:37:04  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 23:37:15  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 23:37:17  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 23:38:08  INFO [pages.LoginPage] : Element is not displayed
+2024-24-09 23:38:13  INFO [pages.HomePage] :  element is not displayed
+2024-24-09 23:38:34  INFO [pages.HomePage] :  element was clicked
+2024-24-09 23:38:51  INFO [pages.DashboardPage] :  element was clicked
+2024-24-09 23:38:54  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-24-09 23:38:56  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-24-09 23:39:08  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2b25a7f4740c5f7b4693a72c997ab84d, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:53271}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:53271/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2b25a7f4740c5f7b4693a72c997ab84d
+2024-24-09 23:48:08  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 23:48:51  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 23:49:16  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 23:49:21  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 23:49:32  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 23:49:34  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 23:50:11  INFO [pages.LoginPage] : Element is not displayed
+2024-24-09 23:50:46  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 23:51:31  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 23:51:55  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 23:52:00  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 23:52:12  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 23:52:14  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 23:52:59  INFO [pages.LoginPage] : Element is not displayed
+2024-24-09 23:53:00  INFO [pages.HomePage] :  element is not displayed
+2024-24-09 23:53:15  INFO [pages.HomePage] :  element was clicked
+2024-24-09 23:53:25  INFO [pages.DashboardPage] :  element was clicked
+2024-24-09 23:53:27  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-24-09 23:53:28  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-24-09 23:53:42  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.59)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [42b424d83162dd511659b7aa2ab53433, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.59, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:57375}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:57375/devtoo..., se:cdpVersion: 129.0.6668.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 42b424d83162dd511659b7aa2ab53433
+2024-24-09 23:56:39  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-24-09 23:57:32  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-24-09 23:57:52  INFO [pages.LoginPage] :  element was clicked
+2024-24-09 23:57:57  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-24-09 23:58:07  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-24-09 23:58:09  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-24-09 23:58:56  INFO [pages.LoginPage] : Element is not displayed
+2024-24-09 23:58:57  INFO [pages.HomePage] :  element is not displayed
+2024-24-09 23:59:14  INFO [pages.HomePage] :  element was clicked
+2024-24-09 23:59:29  INFO [pages.DashboardPage] :  element was clicked
+2024-24-09 23:59:30  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-24-09 23:59:32  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-24-09 23:59:47  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [7d4886fe772aa7592dd29c6e895c9bf3, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.58 (81a06fb873a9..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:58937}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:58937/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 7d4886fe772aa7592dd29c6e895c9bf3
+2024-25-09 21:08:30  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 21:09:13  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:09:38  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:09:45  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:09:54  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:09:56  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:10:39  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:10:40  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:10:58  INFO [pages.HomePage] :  element was clicked
+2024-25-09 21:11:10  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 21:11:13  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-25-09 21:11:15  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:11:55  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [6ca44bc569cedf630a53a4ee97fc906e, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61665}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:61665/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 6ca44bc569cedf630a53a4ee97fc906e
+2024-25-09 21:16:10  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 21:16:47  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:17:20  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:17:42  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:17:53  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:17:57  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:18:48  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:18:48  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:19:30  INFO [pages.HomePage] :  element was clicked
+2024-25-09 21:19:58  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 21:20:03  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-25-09 21:20:06  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:20:44  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@class='input user-first-name' and @value='Марія']"}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a4df2ca6a1e2959bb74a6bdc53fd567a, findElement {using=xpath, value=//input[@class='input user-first-name' and @value='Марія']}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:61937}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:61937/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a4df2ca6a1e2959bb74a6bdc53fd567a
+2024-25-09 21:27:32  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 21:29:24  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:29:31  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:29:34  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:29:48  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:29:50  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:30:39  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:30:39  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:31:02  INFO [pages.HomePage] :  element was clicked
+2024-25-09 21:31:18  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 21:31:18  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.InvalidSelectorException: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //input[@class='input user-first-name] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@class='input user-first-name]' is not a valid XPath expression."}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a64341737d3e9597ec63f76546774280, findElement {using=xpath, value=//input[@class='input user-first-name]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62442}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:62442/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a64341737d3e9597ec63f76546774280
+2024-25-09 21:31:18  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.InvalidSelectorException: invalid selector
+from javascript error: {"status":32,"value":"Unable to locate an element with the xpath expression //input[@class='input user-first-name] because of the following error:\nSyntaxError: Failed to execute 'evaluate' on 'Document': The string '//input[@class='input user-first-name]' is not a valid XPath expression."}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#invalid_selector_exception
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a64341737d3e9597ec63f76546774280, findElement {using=xpath, value=//input[@class='input user-first-name]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:62442}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:62442/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a64341737d3e9597ec63f76546774280
+2024-25-09 21:34:53  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 21:35:51  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:36:12  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:36:20  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:36:27  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:36:31  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:37:18  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:37:19  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:37:32  INFO [pages.HomePage] :  element was clicked
+2024-25-09 21:37:44  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 21:37:46  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-25-09 21:37:48  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:37:59  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-25-09 21:38:01  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:39:45  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 21:41:04  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:41:15  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:41:20  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:41:26  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:41:30  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:42:19  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:42:20  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:42:37  INFO [pages.HomePage] :  element was clicked
+2024-25-09 21:42:50  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 21:42:53  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-25-09 21:42:54  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:43:06  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-25-09 21:43:08  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:43:25  INFO [personalAccountTests.ChangeNameTest] : Browser was closed
+2024-25-09 21:46:03  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 21:46:58  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:47:22  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:47:27  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:47:35  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:47:39  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:48:30  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:48:30  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:48:51  INFO [pages.HomePage] :  element was clicked
+2024-25-09 21:49:03  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 21:49:05  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-25-09 21:49:09  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:49:59  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-25-09 21:50:03  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 21:50:32  INFO [personalAccountTests.ChangeNameTest] : Browser was closed
+2024-25-09 21:52:44  INFO [loginTests.LoginTest] : Browser was opened
+2024-25-09 21:56:58  INFO [loginTests.LoginTest] : Browser was opened
+2024-25-09 21:58:17  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 21:58:25  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 21:58:31  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 21:58:40  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 21:58:47  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 21:59:41  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 21:59:42  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 21:59:43  INFO [loginTests.LoginTest] : Browser was closed
+2024-25-09 22:05:49  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 22:06:37  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 22:07:06  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 22:07:11  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 22:07:19  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 22:07:26  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 22:10:39  ERROR [pages.MyDataPage] : Can not work with element org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//input[@type='text' and contains(@class, 'input user-first-name') and @placeholder="Ім'я"]"}
+  (Session info: chrome=129.0.6668.70)
+For documentation on this error, please visit: https://selenium.dev/exceptions/#no_such_element
+Build info: version: '4.8.3', revision: 'e5e76298c3'
+System info: os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '14.6.1', java.version: '17.0.11'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [1f0d0ebdff4f5a6a7428a248c9c72c75, findElement {using=xpath, value=//input[@type='text' and contains(@class, 'input user-first-name') and @placeholder="Ім'я"]}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 129.0.6668.70, chrome: {chromedriverVersion: 129.0.6668.70 (df87d5cf12b1..., userDataDir: /var/folders/gq/zcg22tdn4z7...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56098}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: MAC, proxy: Proxy(), se:cdp: ws://localhost:56098/devtoo..., se:cdpVersion: 129.0.6668.70, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 1f0d0ebdff4f5a6a7428a248c9c72c75
+2024-25-09 22:10:40  INFO [personalAccountTests.ChangeNameTest] : Browser was closed
+2024-25-09 22:11:16  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-25-09 22:12:16  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-25-09 22:12:44  INFO [pages.LoginPage] :  element was clicked
+2024-25-09 22:12:49  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-25-09 22:12:56  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-25-09 22:13:00  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-25-09 22:13:52  INFO [pages.LoginPage] : Element is not displayed
+2024-25-09 22:13:53  INFO [pages.HomePage] :  element is not displayed
+2024-25-09 22:14:15  INFO [pages.HomePage] :  element was clicked
+2024-25-09 22:14:34  INFO [pages.DashboardPage] :  element was clicked
+2024-25-09 22:14:35  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-25-09 22:14:38  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 22:14:52  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-25-09 22:14:54  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-25-09 22:15:04  INFO [personalAccountTests.ChangeNameTest] : Browser was closed
