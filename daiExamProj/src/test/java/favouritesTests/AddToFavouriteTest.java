@@ -41,6 +41,6 @@ public class AddToFavouriteTest extends BaseTest {
     @After
     public void teardown() {
         pageProvider.getFavouritePage().clickOnClearTheListButton();
-
+        pageProvider.getFavouritePage().checkIsListEmpty();
     }
 }

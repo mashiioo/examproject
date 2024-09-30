@@ -16,6 +16,9 @@ public class FavouritePage extends ParentPage {
     @FindBy(xpath = "/html/body/main/section/header/a/span")
     private WebElement clearTheListButton;
 
+    @FindBy(xpath = "/html/body/main/section/div/div/div[1]")
+    private WebElement emptyListMessage;
+
     public FavouritePage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -40,4 +43,9 @@ public class FavouritePage extends ParentPage {
         clickOnElement(clearTheListButton);
         return this;
     }
+
+    public boolean checkIsListEmpty() {
+        return isElementVisible(emptyListMessage);
+    }
+
 }
