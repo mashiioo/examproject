@@ -17,19 +17,17 @@ Delete user
 
 
 
-TC_002 Add 2 items from one category for comparison
+TC_002 Check search by namw
 Preconditions:
 1. Register new user
 2. Log in
 
 STR:
-1. Click on "Всі товари" button
-2. Click on "Ноутбуки" button
-3. Сlick on "Порівняти" button for 2 items
-
+1. Click on Search input
+2. Enter iPhone 16 pro max
 
 Expected result:
-Check that scales icon for 2 items are active, and scales icon in the right corner has digit "2" on it
+Check that search result shows items with iPhone 16 pro max
 
 Postcondition:
 Delete user
@@ -52,7 +50,7 @@ Delete user
 
 
 
-TC_004 Add item to wishlist
+TC_004 Add item to favourites
 Preconditions:
 1. Register new user
 2. Log in

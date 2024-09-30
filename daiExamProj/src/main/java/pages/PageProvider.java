@@ -23,4 +23,21 @@ public class PageProvider {
     public MyDataPage getMyDataPage() {
         return new MyDataPage(webDriver);
     }
+
+    public CatalogPage getCatalogPage() {
+        return new CatalogPage(webDriver);
+    }
+
+    public LaptopsPage getLaptopsPage() {
+        return new LaptopsPage(webDriver);
+    }
+
+    public Laptop1Page getLaptop1Page() {
+        return new Laptop1Page(webDriver);
+    }
+
+    public FavouritePage getFavouritePage() {
+        return new FavouritePage(webDriver);
+    }
+
 }

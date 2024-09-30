@@ -10,6 +10,9 @@ public class HomePage extends ParentPage {
     @FindBy(xpath = "//span[@class='active cabinet-link' and text()='Марія']")
     public WebElement firstName;
 
+    @FindBy(xpath = "//a[@href='/ua/catalog/' and contains(@class, 'catalog') and text()=' Всі товари ']")
+    private WebElement catalogButton;
+
     public HomePage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -26,5 +29,9 @@ public class HomePage extends ParentPage {
 
     public void clickOnFirstNamebutton() {
         clickOnElement(firstName);
+    }
+
+    public void clickOnCatalogButton() {
+        clickOnElement(catalogButton);
     }
 }
