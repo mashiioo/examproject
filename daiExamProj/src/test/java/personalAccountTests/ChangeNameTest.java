@@ -28,7 +28,7 @@ public class ChangeNameTest extends BaseTest {
 
     @Test
     public void TC_005_ChangeFirstName() {
-        pageProvider.getHomePage().clickOnFirstNamebutton();
+        pageProvider.getHomePage().clickOnFirstNameButton();
         pageProvider.getDashboardPage().checkIsRedirectToDashboardPage();
         pageProvider.getDashboardPage().clickOnEditDataButton();
         pageProvider.getMyDataPage().checkIsRedirectToMyDataPage();

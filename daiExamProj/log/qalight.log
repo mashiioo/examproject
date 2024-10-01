@@ -4894,3 +4894,37 @@ Session ID: 1f0d0ebdff4f5a6a7428a248c9c72c75
 2024-30-09 23:32:48  INFO [pages.FavouritePage] :  element was clicked
 2024-30-09 23:32:49  INFO [pages.FavouritePage] :  element is not displayed
 2024-30-09 23:32:49  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-30-09 23:48:36  INFO [loginTests.LoginTest] : Browser was opened
+2024-30-09 23:49:25  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-30-09 23:49:47  INFO [pages.LoginPage] :  element was clicked
+2024-30-09 23:49:56  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-30-09 23:50:06  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-30-09 23:50:08  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-30-09 23:50:47  INFO [pages.LoginPage] : Element is not displayed
+2024-30-09 23:50:52  INFO [pages.HomePage] :  element is not displayed
+2024-30-09 23:50:52  INFO [loginTests.LoginTest] : Browser was closed
+2024-30-09 23:51:45  INFO [loginTests.LoginTest] : Browser was opened
+2024-30-09 23:52:35  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-30-09 23:53:06  INFO [pages.LoginPage] :  element was clicked
+2024-30-09 23:53:11  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-30-09 23:53:17  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-30-09 23:53:27  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-30-09 23:54:05  INFO [pages.LoginPage] : Element is not displayed
+2024-30-09 23:54:20  INFO [loginTests.LoginTest] : Browser was closed
+2024-30-09 23:56:07  INFO [loginTests.LoginTest] : Browser was opened
+2024-30-09 23:57:01  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-30-09 23:57:27  INFO [pages.LoginPage] :  element was clicked
+2024-30-09 23:57:33  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-30-09 23:57:41  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-30-09 23:57:48  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-30-09 23:58:36  INFO [pages.LoginPage] : Element is not displayed
+2024-30-09 23:59:22  INFO [loginTests.LoginTest] : Browser was closed
+2024-01-10 00:05:40  INFO [loginTests.LoginTest] : Browser was opened
+2024-01-10 00:06:38  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-01-10 00:07:02  INFO [pages.LoginPage] :  element was clicked
+2024-01-10 00:07:09  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-01-10 00:07:19  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-01-10 00:07:22  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-01-10 00:08:11  INFO [pages.LoginPage] : Element is not displayed
+2024-01-10 00:08:12  INFO [pages.HomePage] :  element is not displayed
+2024-01-10 00:08:12  INFO [loginTests.LoginTest] : Browser was closed

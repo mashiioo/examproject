@@ -71,7 +71,7 @@ public class CommonActionsWithElements {
             if (state) {
                 logger.info(getElementName(webElement) + " element is not displayed");
             }
-            return state;
+            return false;
         } catch (Exception e) {
             logger.info("Element is not displayed");
             return false;

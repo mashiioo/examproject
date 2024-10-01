@@ -3,11 +3,12 @@ package pages;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class HomePage extends ParentPage {
 
 
-    @FindBy(xpath = "//span[@class='active cabinet-link' and text()='Марія']")
+    @FindBy(xpath = "(//span[@class='active cabinet-link' and text()='Марія'])[1]")
     public WebElement firstName;
 
     @FindBy(xpath = "//a[@href='/ua/catalog/' and contains(@class, 'catalog') and text()=' Всі товари ']")
@@ -27,7 +28,7 @@ public class HomePage extends ParentPage {
 
     }
 
-    public void clickOnFirstNamebutton() {
+    public void clickOnFirstNameButton() {
         clickOnElement(firstName);
     }
 
