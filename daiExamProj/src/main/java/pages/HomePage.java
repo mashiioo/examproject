@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.ExpectedConditions;
 public class HomePage extends ParentPage {
 
 
-    @FindBy(xpath = "(//span[@class='active cabinet-link' and text()='Марія'])[1]")
+    @FindBy(xpath = "//div[@class='navbar']//span[text()='Марія']")
     public WebElement firstName;
 
     @FindBy(xpath = "//a[@href='/ua/catalog/' and contains(@class, 'catalog') and text()=' Всі товари ']")
@@ -24,6 +24,7 @@ public class HomePage extends ParentPage {
     }
 
     public boolean isFirstNameVisible() {
+        webDriverWait15.until(ExpectedConditions.visibilityOf(firstName));
         return isElementVisible(firstName);
 
     }

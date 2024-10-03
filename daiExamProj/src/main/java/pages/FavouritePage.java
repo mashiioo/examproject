@@ -13,10 +13,10 @@ import java.time.Duration;
 public class FavouritePage extends ParentPage {
 
 
-    @FindBy(xpath = "/html/body/main/section/header/a/span")
+    @FindBy(xpath = "//span[@class='dotted-text' and text()='Очистити список відкладених']")
     private WebElement clearTheListButton;
 
-    @FindBy(xpath = "/html/body/main/section/div/div/div[1]")
+    @FindBy(xpath = "//div[@class='not-found__strong' and text()='Немає відкладених товарів.']\n")
     private WebElement emptyListMessage;
 
     public FavouritePage(WebDriver webDriver) {
