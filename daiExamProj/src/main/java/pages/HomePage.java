@@ -24,7 +24,6 @@ public class HomePage extends ParentPage {
     }
 
     public boolean isFirstNameVisible() {
-        webDriverWait15.until(ExpectedConditions.visibilityOf(firstName));
         return isElementVisible(firstName);
 
     }

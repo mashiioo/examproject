@@ -24,7 +24,7 @@ Preconditions:
 
 STR:
 1. Click on Search input
-2. Enter iPhone 16 pro max
+2. Enter "iPhone 16 pro max"
 
 Expected result:
 Check that search result shows items with iPhone 16 pro max

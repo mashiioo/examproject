@@ -19,6 +19,12 @@ abstract public class ParentPage extends CommonActionsWithElements {
     @FindBy(xpath = "//a[@class='userlinks-link favorite-link userlinks-link__heart']//span[@class='userlinks-count scada' and text()='1']")
     private WebElement favouriteButtonInHeader;
 
+    @FindBy(xpath = "//div[contains(@class, 'container') and contains(@class, 'hide-on-tablet')]//input[@type='text' and @name='q' and contains(@class, 'input-search')]")
+    private WebElement searchInput;
+
+    @FindBy(xpath = "//div[contains(@class, 'container') and contains(@class, 'hide-on-tablet')]//button[@type='submit' and contains(@class, 'qsr-submit') and text()='Знайти']")
+    private WebElement searchButtonInInput;
+
     public ParentPage(WebDriver webDriver) {
         super(webDriver);
     }
@@ -41,5 +47,18 @@ abstract public class ParentPage extends CommonActionsWithElements {
 
     public void clickOnFavouriteButtonInHeader() {
         clickOnElement(favouriteButtonInHeader);
+    }
+
+    public void clickOnSearchInput() {
+        clickOnElement(searchInput);
+    }
+
+    public ParentPage enterTextIntoSearchInput(String text) {
+        clearAndEnterTextIntoElement(searchInput, text);
+        return this;
+    }
+
+    public void clickOnSearchButtonInInput() {
+        clickOnElement(searchButtonInInput);
     }
 }

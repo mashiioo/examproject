@@ -39,7 +39,9 @@ public class CommonActionsWithElements {
         try {
             Actions actions = new Actions(webDriver);
             actions.moveToElement(webElement).click().perform();
+            Thread.sleep(500);
             for (char c : text.toCharArray()) {
+                Thread.sleep(500);
                 actions.sendKeys(String.valueOf(c))
                         .perform();
             }
@@ -69,9 +71,13 @@ public class CommonActionsWithElements {
         try {
             boolean state = webElement.isDisplayed();
             if (state) {
+                logger.info(getElementName(webElement) + " element is displayed");
+                return state;
+            } else {
                 logger.info(getElementName(webElement) + " element is not displayed");
+                return false;
             }
-            return false;
+
         } catch (Exception e) {
             logger.info("Element is not displayed");
             return false;

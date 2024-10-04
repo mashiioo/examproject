@@ -8,7 +8,7 @@ public class PageProvider {
     public PageProvider(WebDriver webDriver) {
         this.webDriver = webDriver;
     }
-    public LoginPage getLoginPage() {
+    public  LoginPage getLoginPage() {
         return new LoginPage(webDriver);
     }
 
@@ -38,6 +38,10 @@ public class PageProvider {
 
     public FavouritePage getFavouritePage() {
         return new FavouritePage(webDriver);
+    }
+
+    public SearchResultPage getSearchResultPage() {
+        return new SearchResultPage(webDriver);
     }
 
 }
