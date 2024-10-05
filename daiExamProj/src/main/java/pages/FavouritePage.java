@@ -39,9 +39,8 @@ public class FavouritePage extends ParentPage {
         return element.isDisplayed();
     }
 
-    public FavouritePage clickOnClearTheListButton() {
+    public void clickOnClearTheListButton() {
         clickOnElement(clearTheListButton);
-        return this;
     }
 
     public boolean checkIsListEmpty() {

@@ -44,4 +44,8 @@ public class PageProvider {
         return new SearchResultPage(webDriver);
     }
 
+    public CartPage getCartPage() {
+        return new CartPage(webDriver);
+    }
+
 }
