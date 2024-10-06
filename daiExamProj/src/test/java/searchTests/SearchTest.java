@@ -3,9 +3,7 @@ package searchTests;
 import baseBase.BaseTest;
 import data.TestData;
 import org.junit.Assert;
-import org.junit.Before;
 import org.junit.Test;
-import pages.PageProvider;
 
 public class SearchTest extends BaseTest {
 

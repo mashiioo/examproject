@@ -5209,3 +5209,78 @@ Session ID: 3351bb36f74ec093d4fcd960bcbfb39a
 2024-06-10 00:10:09  INFO [pages.CartPage] :  element was clicked
 2024-06-10 00:10:10  INFO [pages.CartPage] :  element is displayed
 2024-06-10 00:10:10  INFO [cartTests.AddToCartTest] : Browser was closed
+2024-06-10 22:20:15  INFO [loginTests.LoginTest] : Browser was opened
+2024-06-10 22:21:05  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-06-10 22:21:24  INFO [pages.LoginPage] :  element was clicked
+2024-06-10 22:21:41  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-06-10 22:21:48  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-06-10 22:21:49  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-06-10 22:22:32  INFO [pages.LoginPage] : Element is not displayed
+2024-06-10 22:22:38  INFO [pages.HomePage] :  element is displayed
+2024-06-10 22:22:38  INFO [loginTests.LoginTest] : Browser was closed
+2024-06-10 22:22:58  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-06-10 22:23:43  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-06-10 22:24:10  INFO [pages.LoginPage] :  element was clicked
+2024-06-10 22:24:26  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-06-10 22:24:30  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-06-10 22:24:32  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-06-10 22:25:17  INFO [pages.LoginPage] : Element is not displayed
+2024-06-10 22:25:17  INFO [pages.HomePage] :  element is displayed
+2024-06-10 22:26:24  INFO [pages.HomePage] : Всі товари element was clicked
+2024-06-10 22:27:12  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-06-10 22:28:36  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-06-10 22:28:43  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-06-10 22:29:28  INFO [pages.Laptop1Page] :  element was clicked
+2024-06-10 22:29:30  INFO [pages.FavouritePage] :  element was clicked
+2024-06-10 22:29:30  INFO [pages.FavouritePage] :  element is displayed
+2024-06-10 22:29:30  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-06-10 22:31:45  INFO [cartTests.AddToCartTest] : Browser was opened
+2024-06-10 22:33:06  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-06-10 22:33:14  INFO [pages.LoginPage] :  element was clicked
+2024-06-10 22:33:28  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-06-10 22:33:31  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-06-10 22:33:33  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-06-10 22:34:46  INFO [pages.LoginPage] : Element is not displayed
+2024-06-10 22:34:49  INFO [pages.HomePage] :  element is displayed
+2024-06-10 22:36:50  INFO [pages.HomePage] : Всі товари element was clicked
+2024-06-10 22:37:38  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-06-10 22:39:03  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-06-10 22:39:12  INFO [pages.Laptop1Page] : Купити element was clicked
+2024-06-10 22:39:13  INFO [pages.Laptop1Page] :  element is displayed
+2024-06-10 22:39:20  INFO [pages.Laptop1Page] : Закрити element was clicked
+2024-06-10 22:39:20  INFO [pages.Laptop1Page] : Оформити  element is displayed
+2024-06-10 22:39:45  INFO [pages.Laptop1Page] : 1 Кошик element was clicked
+2024-06-10 22:39:47  INFO [pages.CartPage] :  element was clicked
+2024-06-10 22:39:52  INFO [pages.CartPage] :  element is displayed
+2024-06-10 22:39:52  INFO [cartTests.AddToCartTest] : Browser was closed
+2024-06-10 22:42:43  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-06-10 22:44:03  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-06-10 22:44:06  INFO [pages.LoginPage] :  element was clicked
+2024-06-10 22:44:32  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-06-10 22:44:34  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-06-10 22:44:37  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-06-10 22:45:26  INFO [pages.LoginPage] : Element is not displayed
+2024-06-10 22:45:26  INFO [pages.HomePage] :  element is displayed
+2024-06-10 22:46:25  INFO [pages.HomePage] :  element was clicked
+2024-06-10 22:46:54  INFO [pages.DashboardPage] :  element was clicked
+2024-06-10 22:46:57  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-06-10 22:46:58  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-06-10 22:47:11  INFO [pages.MyDataPage] :  element is not displayed
+2024-06-10 22:47:14  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-06-10 22:47:15  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-06-10 22:47:23  INFO [pages.MyDataPage] :  element is not displayed
+2024-06-10 22:47:23  INFO [personalAccountTests.ChangeNameTest] : Browser was closed
+2024-06-10 22:47:42  INFO [searchTests.SearchTest] : Browser was opened
+2024-06-10 22:49:28  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-06-10 22:49:31  INFO [pages.LoginPage] :  element was clicked
+2024-06-10 22:49:36  INFO [pages.LoginPage] : iPhone 16 pro max was inputted into element 
+2024-06-10 22:50:01  INFO [pages.LoginPage] : ЗНАЙТИ element was clicked
+2024-06-10 22:50:03  INFO [pages.SearchResultPage] :  element is displayed
+2024-06-10 22:50:03  INFO [searchTests.SearchTest] : Browser was closed
+2024-06-10 22:54:57  INFO [searchTests.SearchTest] : Browser was opened
+2024-06-10 22:55:49  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-06-10 22:56:07  INFO [pages.LoginPage] :  element was clicked
+2024-06-10 22:56:09  INFO [pages.LoginPage] : iPhone 16 pro max was inputted into element 
+2024-06-10 22:56:30  INFO [pages.LoginPage] : ЗНАЙТИ element was clicked
+2024-06-10 22:56:31  INFO [pages.SearchResultPage] :  element is displayed
+2024-06-10 22:56:31  INFO [searchTests.SearchTest] : Browser was closed
