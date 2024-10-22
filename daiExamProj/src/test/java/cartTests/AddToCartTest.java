@@ -9,6 +9,8 @@ import org.junit.Test;
 
 public class AddToCartTest extends BaseTest {
 
+    private String laptopName = "Ноутбук Vinga Iron S150 (S150-12158512G)";
+
     @Before
     public void setUp() {
         pageProvider.getLoginPage().openLoginPage();
@@ -27,7 +29,7 @@ public class AddToCartTest extends BaseTest {
         pageProvider.getCatalogPage().checkIsRedirectToCatalogPage();
         pageProvider.getCatalogPage().clickOnLaptopCategoryButton();
         pageProvider.getLaptopsPage().checkIsRedirectToLaptopsPage();
-        pageProvider.getLaptopsPage().clickOnFirstLaptop();
+        pageProvider.getLaptopsPage().clickOnFirstLaptop(laptopName);
         pageProvider.getLaptop1Page().checkIsRedirectToLaptop1Page();
         pageProvider.getLaptop1Page().clickOBuyButton();
 

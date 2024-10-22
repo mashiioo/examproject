@@ -9,6 +9,8 @@ import org.junit.Test;
 
 public class AddToFavouriteTest extends BaseTest {
 
+    private String laptopName = "Ноутбук Vinga Iron S150 (S150-12158512G)";
+
     @Before
     public void setUp() {
         pageProvider.getLoginPage().openLoginPage();
@@ -28,18 +30,18 @@ public class AddToFavouriteTest extends BaseTest {
         pageProvider.getCatalogPage().checkIsRedirectToCatalogPage();
         pageProvider.getCatalogPage().clickOnLaptopCategoryButton();
         pageProvider.getLaptopsPage().checkIsRedirectToLaptopsPage();
-        pageProvider.getLaptopsPage().clickOnFirstLaptop();
+        pageProvider.getLaptopsPage().clickOnFirstLaptop(laptopName);
         pageProvider.getLaptop1Page().checkIsRedirectToLaptop1Page();
         pageProvider.getLaptop1Page().clickOnFavouriteButton();
         pageProvider.getLaptop1Page().clickOnFavouriteButtonInHeader();
         pageProvider.getFavouritePage().checkIsRedirectToFavouritePage();
 
-        Assert.assertTrue("Laptop is not added to favourite", pageProvider.getFavouritePage().isFirstLaptopDisplayed());
+        Assert.assertTrue("Laptop is not added to favourite", pageProvider.getFavouritePage().isFirstLaptopDisplayed(laptopName));
 
     }
 
     @After
-    public void teardown() {
+    public void clearList() {
         pageProvider.getFavouritePage().clickOnClearTheListButton();
         pageProvider.getFavouritePage().checkIsListEmpty();
     }

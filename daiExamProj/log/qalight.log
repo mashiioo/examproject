@@ -5284,3 +5284,199 @@ Session ID: 3351bb36f74ec093d4fcd960bcbfb39a
 2024-06-10 22:56:30  INFO [pages.LoginPage] : ЗНАЙТИ element was clicked
 2024-06-10 22:56:31  INFO [pages.SearchResultPage] :  element is displayed
 2024-06-10 22:56:31  INFO [searchTests.SearchTest] : Browser was closed
+2024-22-10 16:30:50  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 16:33:44  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 16:34:04  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 16:34:21  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 16:34:25  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 16:34:26  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 16:35:04  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 16:35:04  INFO [pages.HomePage] :  element is displayed
+2024-22-10 16:35:20  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 16:35:45  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 16:36:10  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 16:36:16  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 16:36:24  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 16:36:25  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 16:36:25  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 16:36:25  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 17:11:50  INFO [personalAccountTests.ChangeNameTest] : Browser was opened
+2024-22-10 17:13:08  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 17:13:10  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 17:13:28  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 17:13:30  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 17:13:31  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 17:14:09  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 17:14:10  INFO [pages.HomePage] :  element is displayed
+2024-22-10 17:14:23  INFO [pages.HomePage] :  element was clicked
+2024-22-10 17:14:32  INFO [pages.DashboardPage] :  element was clicked
+2024-22-10 17:14:33  INFO [pages.MyDataPage] : Нейм was inputted into element Ім'я
+2024-22-10 17:14:35  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-22-10 17:14:42  INFO [pages.MyDataPage] :  element is not displayed
+2024-22-10 17:14:45  INFO [pages.MyDataPage] : Марія was inputted into element Ім'я
+2024-22-10 17:14:46  INFO [pages.MyDataPage] : Зберегти element was clicked
+2024-22-10 17:14:51  INFO [pages.MyDataPage] :  element is not displayed
+2024-22-10 17:14:52  INFO [personalAccountTests.ChangeNameTest] : Browser was closed
+2024-22-10 17:21:14  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 17:22:54  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 17:23:02  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 17:23:19  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 17:23:21  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 17:23:22  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 17:23:58  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 17:23:59  INFO [pages.HomePage] :  element is displayed
+2024-22-10 17:24:14  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 17:26:03  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 17:26:43  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 17:26:46  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 17:27:01  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 17:27:14  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 17:27:15  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 17:27:15  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 17:31:11  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 17:32:28  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 17:32:33  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 17:32:46  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 17:32:47  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 17:32:48  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 17:33:28  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 17:33:28  INFO [pages.HomePage] :  element is displayed
+2024-22-10 17:33:56  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 17:34:17  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 17:35:37  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 17:35:49  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 17:36:17  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 17:36:22  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 17:36:23  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 17:36:23  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 17:38:17  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 17:39:34  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 17:39:40  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 17:39:53  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 17:39:54  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 17:39:55  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 17:40:31  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 17:40:32  INFO [pages.HomePage] :  element is displayed
+2024-22-10 17:40:53  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 17:41:02  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 17:41:23  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 17:41:27  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 17:41:34  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 17:41:44  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 17:41:45  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 17:41:45  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 17:48:03  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 17:48:27  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 17:48:55  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 17:49:12  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 17:49:14  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 17:49:15  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 17:49:51  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 17:49:52  INFO [pages.HomePage] :  element is displayed
+2024-22-10 17:50:03  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 17:50:16  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 17:50:32  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 17:50:35  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 17:50:42  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 17:50:53  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 17:50:53  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 17:50:54  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 17:52:27  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 17:53:44  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 17:53:52  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 17:54:05  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 17:54:06  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 17:54:07  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 17:54:42  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 17:54:42  INFO [pages.HomePage] :  element is displayed
+2024-22-10 17:56:04  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 17:56:32  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 17:57:10  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 17:57:16  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 17:57:30  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 17:57:32  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 17:57:32  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 17:57:33  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 18:00:29  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 18:00:56  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 18:01:13  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 18:01:31  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 18:01:35  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 18:01:36  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 18:02:11  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 18:02:12  INFO [pages.HomePage] :  element is displayed
+2024-22-10 18:02:25  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 18:02:41  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 18:02:57  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 18:03:02  INFO [pages.Laptop1Page] : Відкласти element was clicked
+2024-22-10 18:03:09  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 18:03:10  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 18:03:10  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 18:03:10  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 18:06:43  INFO [favouritesTests.AddToFavouriteTest] : Browser was opened
+2024-22-10 18:07:13  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 18:07:30  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 18:07:49  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 18:07:51  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 18:07:52  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 18:08:31  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 18:08:32  INFO [pages.HomePage] :  element is displayed
+2024-22-10 18:08:44  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 18:08:59  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 18:09:15  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 18:09:25  INFO [pages.Laptop1Page] : Відкладено element was clicked
+2024-22-10 18:09:29  INFO [pages.Laptop1Page] :  element was clicked
+2024-22-10 18:09:30  INFO [pages.FavouritePage] :  element was clicked
+2024-22-10 18:09:31  INFO [pages.FavouritePage] :  element is displayed
+2024-22-10 18:09:31  INFO [favouritesTests.AddToFavouriteTest] : Browser was closed
+2024-22-10 18:13:31  INFO [searchTests.SearchTest] : Browser was opened
+2024-22-10 18:14:48  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 18:14:50  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 18:14:52  INFO [pages.LoginPage] : iPhone 16 pro max was inputted into element 
+2024-22-10 18:15:08  INFO [pages.LoginPage] : ЗНАЙТИ element was clicked
+2024-22-10 18:15:08  INFO [searchTests.SearchTest] : Browser was closed
+2024-22-10 18:16:07  INFO [cartTests.AddToCartTest] : Browser was opened
+2024-22-10 18:17:26  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 18:17:33  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 18:17:46  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 18:17:47  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 18:17:48  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 18:18:24  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 18:18:24  INFO [pages.HomePage] :  element is displayed
+2024-22-10 18:18:39  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 18:18:55  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 18:19:16  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 18:19:36  ERROR [pages.Laptop1Page] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Закрити' and @class='fancybox-item fancybox-close']' (tried for 10 second(s) with 500 milliseconds interval)
+2024-22-10 18:19:37  INFO [cartTests.AddToCartTest] : Browser was closed
+2024-22-10 18:37:26  INFO [cartTests.AddToCartTest] : Browser was opened
+2024-22-10 18:37:42  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 18:37:47  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 18:37:56  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 18:37:59  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 18:38:00  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 18:38:31  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 18:38:31  INFO [pages.HomePage] :  element is displayed
+2024-22-10 18:40:01  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 18:40:20  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 18:40:55  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 18:41:15  ERROR [pages.Laptop1Page] : Can not work with element org.openqa.selenium.TimeoutException: Expected condition failed: waiting for element to be clickable: Proxy element for: DefaultElementLocator 'By.xpath: //a[@title='Закрити' and @class='fancybox-item fancybox-close']' (tried for 10 second(s) with 500 milliseconds interval)
+2024-22-10 18:41:15  INFO [cartTests.AddToCartTest] : Browser was closed
+2024-22-10 18:41:57  INFO [cartTests.AddToCartTest] : Browser was opened
+2024-22-10 18:44:50  INFO [pages.LoginPage] : Login page was opened https://www.itbox.ua/
+2024-22-10 18:45:09  INFO [pages.LoginPage] :  element was clicked
+2024-22-10 18:45:29  INFO [pages.LoginPage] : Text +380633599483 was entered via keyboardТелефон
+2024-22-10 18:45:32  INFO [pages.LoginPage] : 123456qwerty was inputted into element Пароль
+2024-22-10 18:45:33  INFO [pages.LoginPage] : Вхiд element was clicked
+2024-22-10 18:46:10  INFO [pages.LoginPage] : Element is not displayed
+2024-22-10 18:46:10  INFO [pages.HomePage] :  element is displayed
+2024-22-10 18:46:25  INFO [pages.HomePage] : Всі товари element was clicked
+2024-22-10 18:46:41  INFO [pages.CatalogPage] : Ноутбуки element was clicked
+2024-22-10 18:46:59  INFO [pages.LaptopsPage] : Ноутбук Vinga Iron S150 (S150-12158512G) element was clicked
+2024-22-10 18:47:05  INFO [pages.Laptop1Page] : Купити element was clicked
+2024-22-10 18:47:06  INFO [pages.Laptop1Page] :  element is displayed
+2024-22-10 18:47:07  INFO [pages.Laptop1Page] : Закрити element was clicked
+2024-22-10 18:47:07  INFO [pages.Laptop1Page] : Оформити  element is displayed
+2024-22-10 18:47:16  INFO [pages.Laptop1Page] : 1 Кошик element was clicked
+2024-22-10 18:47:16  INFO [pages.CartPage] :  element was clicked
+2024-22-10 18:47:16  INFO [pages.CartPage] :  element is displayed
+2024-22-10 18:47:17  INFO [cartTests.AddToCartTest] : Browser was closed

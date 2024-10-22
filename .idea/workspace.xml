@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73c63226-df23-4174-bd6e-bf2ea4430b86" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/log/qalight.log" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/log/qalight.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/java/data/TestData.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/main/java/data/TestData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/FavouritePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/FavouritePage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/Laptop1Page.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/Laptop1Page.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/LaptopsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/LaptopsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/SearchResultPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/main/java/pages/SearchResultPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/resources/config.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/main/resources/hiddenConfig.properties" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/daiExamProj/src/test/java/cartTests/AddToCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/test/java/cartTests/AddToCartTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/daiExamProj/src/test/java/personalAccountTests/ChangeNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/test/java/personalAccountTests/ChangeNameTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/test/java/favouritesTests/AddToFavouriteTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/test/java/favouritesTests/AddToFavouriteTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/test/java/searchTests/SearchTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/test/java/searchTests/SearchTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/classes/pages/CommonActionsWithElements.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/classes/pages/CommonActionsWithElements.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/classes/pages/FavouritePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/classes/pages/FavouritePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/classes/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/classes/pages/HomePage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/classes/pages/Laptop1Page.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/classes/pages/Laptop1Page.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/classes/pages/LaptopsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/classes/pages/LaptopsPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/test-classes/cartTests/AddToCartTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/test-classes/cartTests/AddToCartTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/test-classes/favouritesTests/AddToFavouriteTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/test-classes/favouritesTests/AddToFavouriteTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/target/test-classes/personalAccountTests/ChangeNameTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/target/test-classes/personalAccountTests/ChangeNameTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,8 +88,8 @@
       <recent name="$PROJECT_DIR$/.idea" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.SearchTest.TC_002_SearchWithValidData">
-    <configuration name="AddToCartTest.TC_003_AddToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.AddToCartTest">
+    <configuration name="AddToCartTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="daiExamProj" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +99,7 @@
       </extension>
       <option name="PACKAGE_NAME" value="cartTests" />
       <option name="MAIN_CLASS_NAME" value="cartTests.AddToCartTest" />
-      <option name="METHOD_NAME" value="TC_003_AddToCart" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -99,6 +115,22 @@
       <option name="PACKAGE_NAME" value="favouritesTests" />
       <option name="MAIN_CLASS_NAME" value="favouritesTests.AddToFavouriteTest" />
       <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToFavouriteTest.TC_004_AddToFavourite" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daiExamProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="favouritesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="favouritesTests" />
+      <option name="MAIN_CLASS_NAME" value="favouritesTests.AddToFavouriteTest" />
+      <option name="METHOD_NAME" value="TC_004_AddToFavourite" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -133,22 +165,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SearchTest.TC_002_SearchWithValidData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="daiExamProj" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="searchTests.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="searchTests" />
-      <option name="MAIN_CLASS_NAME" value="searchTests.SearchTest" />
-      <option name="METHOD_NAME" value="TC_002_SearchWithValidData" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration default="true" type="JetRunConfigurationType">
       <module name="daiExamProj" />
       <method v="2">
@@ -164,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.SearchTest.TC_002_SearchWithValidData" />
+        <item itemvalue="JUnit.AddToCartTest" />
         <item itemvalue="JUnit.SearchTest" />
-        <item itemvalue="JUnit.ChangeNameTest" />
-        <item itemvalue="JUnit.AddToCartTest.TC_003_AddToCart" />
         <item itemvalue="JUnit.AddToFavouriteTest" />
+        <item itemvalue="JUnit.ChangeNameTest" />
+        <item itemvalue="JUnit.AddToFavouriteTest.TC_004_AddToFavourite" />
       </list>
     </recent_temporary>
   </component>
@@ -285,7 +301,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728244717256</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="fix1">
+      <option name="closed" value="true" />
+      <created>1729602992458</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1729602992458</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -316,6 +340,7 @@
     <MESSAGE value="test 002" />
     <MESSAGE value="test 003" />
     <MESSAGE value="deleted unnecessary code" />
-    <option name="LAST_COMMIT_MESSAGE" value="deleted unnecessary code" />
+    <MESSAGE value="fix1" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix1" />
   </component>
 </project>

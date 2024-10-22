@@ -1,14 +1,12 @@
 package pages;
 
+import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.support.FindBy;
+import org.openqa.selenium.support.ui.ExpectedConditions;
 
 public class LaptopsPage extends ParentPage {
 
-
-    @FindBy(xpath = "//a[@class='to_product' and @title='Ноутбук Vinga Iron S150 (S150-12158512G)']")
-    public WebElement firstLaptop;
 
 
     public LaptopsPage(WebDriver webDriver) {
@@ -25,7 +23,9 @@ public class LaptopsPage extends ParentPage {
         return this;
     }
 
-    public void clickOnFirstLaptop() {
-        clickOnElement(firstLaptop);
-    }
+    public void clickOnFirstLaptop(String laptopName){
+    String laptopXpath = String.format("//a[@class='to_product' and @title='%s']", laptopName);
+    WebElement laptopElement = webDriverWait15.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(laptopXpath)));
+    clickOnElement(laptopElement);
+}
 }

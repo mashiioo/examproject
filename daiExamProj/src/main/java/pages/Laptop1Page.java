@@ -1,5 +1,6 @@
 package pages;
 
+import org.junit.Assert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
@@ -49,7 +50,8 @@ public class Laptop1Page extends ParentPage {
     }
 
     public Laptop1Page checkIsButtonPlaceOrderVisible() {
-        isElementVisible(placeOrderButton);
+        boolean isVisible = isElementVisible(placeOrderButton);
+        Assert.assertTrue("Place Order button is not visible", isVisible);
         return this;
     }
 }

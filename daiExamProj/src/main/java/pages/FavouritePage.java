@@ -1,5 +1,6 @@
 package pages;
 
+import org.junit.Assert;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
@@ -32,18 +33,20 @@ public class FavouritePage extends ParentPage {
         return this;
     }
 
-    public boolean isFirstLaptopDisplayed() {
+    public boolean isFirstLaptopDisplayed(String laptopName) {
+        String laptopXpath = String.format("//a[@class='to_product' and @title='%s']", laptopName);
         WebDriverWait wait = new WebDriverWait(webDriver, Duration.ofSeconds(10));
-        WebElement element = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[@class='to_product' and @title='Ноутбук Vinga Iron S150 (S150-12158512G)']")));
-        return element.isDisplayed();
+        WebElement laptopElement = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath(laptopXpath)));
+        return laptopElement.isDisplayed();
     }
 
     public void clickOnClearTheListButton() {
         clickOnElement(clearTheListButton);
     }
 
-    public boolean checkIsListEmpty() {
-        return isElementVisible(emptyListMessage);
+    public void checkIsListEmpty() {
+        boolean isEmpty = isElementVisible(emptyListMessage);
+        Assert.assertTrue("The list is not empty", isEmpty);
     }
 
 }
