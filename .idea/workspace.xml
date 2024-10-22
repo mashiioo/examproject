@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="73c63226-df23-4174-bd6e-bf2ea4430b86" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/test/java/cartTests/AddToCartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/test/java/cartTests/AddToCartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/daiExamProj/src/test/java/personalAccountTests/ChangeNameTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/daiExamProj/src/test/java/personalAccountTests/ChangeNameTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;mashiioo&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/mashiioo/examproject.git&quot;,
+    &quot;accountId&quot;: &quot;34409d6e-a8a6-4f1f-8d39-c8e7a2a351dc&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2mQVw0V9h9VTMhezm83FKNIdQ8d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;JUnit.AddToCartTest.TC_003_AddToCart.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddToCartTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddToFavouriteTest.TC_004_AddToFavourite.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.AddToFavouriteTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChangeNameTest.TC_005_ChangeFirstName.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ChangeNameTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.TC_001_LoginWithValidData.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.LoginTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchTest.TC_002_SearchWithValidData.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SearchTest.setUp.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/.idea" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SearchTest.TC_002_SearchWithValidData">
+    <configuration name="AddToCartTest.TC_003_AddToCart" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daiExamProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cartTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cartTests" />
+      <option name="MAIN_CLASS_NAME" value="cartTests.AddToCartTest" />
+      <option name="METHOD_NAME" value="TC_003_AddToCart" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AddToFavouriteTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daiExamProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="favouritesTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="favouritesTests" />
+      <option name="MAIN_CLASS_NAME" value="favouritesTests.AddToFavouriteTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeNameTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daiExamProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="personalAccountTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="personalAccountTests" />
+      <option name="MAIN_CLASS_NAME" value="personalAccountTests.ChangeNameTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daiExamProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchTests" />
+      <option name="MAIN_CLASS_NAME" value="searchTests.SearchTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SearchTest.TC_002_SearchWithValidData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="daiExamProj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="searchTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="searchTests" />
+      <option name="MAIN_CLASS_NAME" value="searchTests.SearchTest" />
+      <option name="METHOD_NAME" value="TC_002_SearchWithValidData" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="daiExamProj" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="daiExamProj" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SearchTest.TC_002_SearchWithValidData" />
+        <item itemvalue="JUnit.SearchTest" />
+        <item itemvalue="JUnit.ChangeNameTest" />
+        <item itemvalue="JUnit.AddToCartTest.TC_003_AddToCart" />
+        <item itemvalue="JUnit.AddToFavouriteTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="73c63226-df23-4174-bd6e-bf2ea4430b86" name="Changes" comment="" />
+      <created>1727009022202</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727009022202</updated>
+    </task>
+    <task id="LOCAL-00001" summary="new proj">
+      <option name="closed" value="true" />
+      <created>1727010140017</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1727010140017</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new proj update">
+      <option name="closed" value="true" />
+      <created>1727074451399</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1727074451399</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testcase5">
+      <option name="closed" value="true" />
+      <created>1727162587408</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1727162587408</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testcase5">
+      <option name="closed" value="true" />
+      <created>1727193842146</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1727193842146</updated>
+    </task>
+    <task id="LOCAL-00005" summary="testcase5fix">
+      <option name="closed" value="true" />
+      <created>1727292093781</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1727292093781</updated>
+    </task>
+    <task id="LOCAL-00006" summary="testcase5fixes">
+      <option name="closed" value="true" />
+      <created>1727292144967</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1727292144967</updated>
+    </task>
+    <task id="LOCAL-00007" summary="test case 4">
+      <option name="closed" value="true" />
+      <created>1727727833268</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1727727833268</updated>
+    </task>
+    <task id="LOCAL-00008" summary="test case 4 assert">
+      <option name="closed" value="true" />
+      <created>1727728650032</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1727728650032</updated>
+    </task>
+    <task id="LOCAL-00009" summary="test case 4 assert1">
+      <option name="closed" value="true" />
+      <created>1727803748196</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1727803748196</updated>
+    </task>
+    <task id="LOCAL-00010" summary="test case fix 4">
+      <option name="closed" value="true" />
+      <created>1727954494501</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1727954494501</updated>
+    </task>
+    <task id="LOCAL-00011" summary="test 002">
+      <option name="closed" value="true" />
+      <created>1728072488060</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1728072488060</updated>
+    </task>
+    <task id="LOCAL-00012" summary="test 003">
+      <option name="closed" value="true" />
+      <created>1728162741565</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1728162741565</updated>
+    </task>
+    <task id="LOCAL-00013" summary="deleted unnecessary code">
+      <option name="closed" value="true" />
+      <created>1728244717256</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1728244717256</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/../G10_UI_exam_project" />
+    </ignored-roots>
+    <MESSAGE value="new proj" />
+    <MESSAGE value="new proj update" />
+    <MESSAGE value="testcase5" />
+    <MESSAGE value="testcase5fix" />
+    <MESSAGE value="testcase5fixes" />
+    <MESSAGE value="test case 4" />
+    <MESSAGE value="test case 4 assert" />
+    <MESSAGE value="test case 4 assert1" />
+    <MESSAGE value="test case fix 4" />
+    <MESSAGE value="test" />
+    <MESSAGE value="test 002" />
+    <MESSAGE value="test 003" />
+    <MESSAGE value="deleted unnecessary code" />
+    <option name="LAST_COMMIT_MESSAGE" value="deleted unnecessary code" />
+  </component>
+</project>

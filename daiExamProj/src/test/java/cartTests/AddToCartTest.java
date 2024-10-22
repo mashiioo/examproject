@@ -2,6 +2,7 @@ package cartTests;
 
 import baseBase.BaseTest;
 import data.TestData;
+import org.junit.After;
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
@@ -32,13 +33,18 @@ public class AddToCartTest extends BaseTest {
 
         Assert.assertTrue("Laptop is not added to cart", pageProvider.getLaptop1Page().isFirstLaptopDisplayedInCartModal());
 
+
+    }
+
+    @After
+    public void clearCart() {
         pageProvider.getLaptop1Page().clickOnCloseButtonInCartModal();
         pageProvider.getLaptop1Page().checkIsButtonPlaceOrderVisible();
         pageProvider.getLaptop1Page().clickOnCartButton();
         pageProvider.getCartPage().checkIsRedirectToCartPage();
         pageProvider.getCartPage().clickOnClearTheCartButton();
         pageProvider.getCartPage().checkIsCartEmpty();
-
-
     }
+
 }
+

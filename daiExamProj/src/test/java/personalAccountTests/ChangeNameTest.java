@@ -40,7 +40,7 @@ public class ChangeNameTest extends BaseTest {
     }
 
     @After
-    public void tearDown1() {
+    public void changeFirstNameBack() {
         pageProvider.getMyDataPage().enterNewFirstName("Марія");
         pageProvider.getMyDataPage().clickOnSaveButton();
         pageProvider.getMyDataPage().checkIsNameUpdated("Марія");
